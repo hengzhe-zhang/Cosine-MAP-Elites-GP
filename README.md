@@ -40,4 +40,4 @@ The code is based on the paper "MAP-Elites with Cosine-Similarity for Evolutiona
 }
 ```
 
-In Figure 8 of the paper, the term "negative cosine similarity" should be revised to "negative cosine distance" in accordance with the definition of pairwise distance in scikit-learn (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html#sklearn.metrics.pairwise_distances). Apologies for any confusion caused.
+In Figure 8 of the paper, the term "negative cosine similarity" should be revised to "negative cosine distance" in accordance with [the definition of pairwise distance in scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html#sklearn.metrics.pairwise_distances). Apologies for any confusion caused.
